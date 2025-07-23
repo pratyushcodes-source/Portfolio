@@ -191,7 +191,7 @@ const Portfolio = () => {
             <div className="space-y-6">
               <p className="text-lg text-gray-300 leading-relaxed">
                 I'm a Computer and Electronics Engineering student at <strong className="text-purple-400">Thapar Institute of Engineering and Technology</strong> 
-                with a CGPA of 7.65/10. I'm passionate about leveraging AI and machine learning to create innovative solutions.
+                . I'm passionate about leveraging AI and machine learning to create innovative solutions.
               </p>
               
               <p className="text-lg text-gray-300 leading-relaxed">
